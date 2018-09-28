@@ -83,4 +83,3 @@ info:
   build.artifactId: $project.artifactId$
   build.version: $project.version$
   
----
